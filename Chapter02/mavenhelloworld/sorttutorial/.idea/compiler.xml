@@ -9,8 +9,5 @@
         <module name="SortTutorial" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SortTutorial" target="1.10" />
-    </bytecodeTargetLevel>
   </component>
 </project>
